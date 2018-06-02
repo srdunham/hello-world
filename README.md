@@ -1,6 +1,6 @@
 # hello-world
 first repository
 
-Hello WOrld:
+Hello World:
 
 I am called Scott. That is all. 
